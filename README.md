@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/igor-marchi/igor-marchi/output/snake.svg" alt="Snake animation" />
-
-###
